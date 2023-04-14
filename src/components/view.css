@@ -1,0 +1,60 @@
+.contianer{
+    padding: 0;
+    margin: 0;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+.title1{
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    justify-items: center;
+    position: relative;
+    height: 2rem;
+    font-size: large;
+    font-weight: bold;
+    background: rgb(224, 224, 236);
+    padding-top: 0.2rem;
+    margin-bottom: 0.5rem;
+}
+
+.title2{
+    display: flex;
+    gap: 2rem;
+    justify-content: center;
+    position: relative;
+    height: 2rem;
+    border-bottom: 1px solid rgb(224, 224, 236);
+    margin-bottom: 0.5rem;
+}
+
+.checkbox{
+    width: 2rem; 
+}
+
+.name{
+    width: 13rem;
+}
+
+.username{
+    width: 10rem;
+}
+
+.email{
+    width: 14rem;
+}
+
+.phone{
+    width: 12rem;
+}
+
+.website{
+    width: 8rem;
+}
+
+.address{
+    width: 12rem;
+}
+
+
